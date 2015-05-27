@@ -9,7 +9,7 @@ describe PeopleController do
     end
 
     context "when person is invalid" do
-      it "redirects to #new" do
+      it "renders the 'new' template" do
         pending "create this test"
       end
     end
